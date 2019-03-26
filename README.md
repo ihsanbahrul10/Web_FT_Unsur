@@ -4,7 +4,8 @@ Ini Adalah Sebuah Projek Laman Web Fakultas Teknik Unsur
 
 Kelompok 2
 
-Leader : Ihsan Bahrul Ulum [ihsanbahrul10] NPM : 5520117065
+Leader : 
+- Ihsan Bahrul Ulum [ihsanbahrul10] NPM : 5520117065
 
 
 Projeck Mananger :
